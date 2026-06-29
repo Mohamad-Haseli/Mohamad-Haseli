@@ -1,49 +1,145 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is Mohammad Haseli and I'm a .Net developer</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ I have been working as a .NET developer for 10 years at Bonro, a subsidiary of the Saipa Group.<br>I'm interested in teamwork and continuously improving my knowledge.<br>My experiences and skills include programming in C# and WPF, as well as working with SQL Server databases.<br>Additionally, I have experience in collecting and analyzing data.<br><br>📚 I'm currently learning Asp.Net Core, My SQL, MongoDB</p>
-
-###
-
 <div align="center">
-  <a href="https://linkedin.com/in/mohammad-haseli" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://t.me/Mohammad_H_1989" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="60" height="40" alt="telegram logo"  />
-  </a>
-  <a href="Mohamad.Haseli@outlook.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="60" height="40" alt="microsoft-outlook logo"  />
-  </a>
+
+# Hi there 👋 I'm Mohammad Haseli
+
+### Senior .NET Backend Developer
+
+Building scalable enterprise software with **C#**, **.NET**, and modern backend technologies.
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-haseli)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/Mohammad_H_1989)
+[![Email](https://img.shields.io/badge/Email-Outlook-blue?logo=microsoft-outlook&logoColor=white)](mailto:Mohamad.Haseli@outlook.com)
+
 </div>
 
-###
+---
 
-<h2 align="left">I code with</h2>
+# 👨‍💻 About Me
 
-###
+I'm a **Senior Software Engineer** with more than **11 years of experience** developing enterprise software solutions.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-</div>
+My background includes every stage of the software lifecycle:
 
-###
+- Software Analysis
+- System Design
+- Backend Development
+- Database Design
+- Testing & Maintenance
+
+I enjoy solving business problems through clean, maintainable, and scalable software.
+
+Currently, I'm expanding my expertise in modern backend development with **ASP.NET Core**, **REST APIs**, **Docker**, **React**, and cloud-ready architectures to prepare for international software engineering opportunities.
+
+---
+
+# 🚀 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet" />
+</p>
+
+### Desktop
+
+- WPF
+- MVVM
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,postman" />
+</p>
+
+### Currently Working On
+
+- ASP.NET Core
+- Entity Framework Core
+- Clean Architecture
+- RESTful APIs
+- JWT Authentication
+- React
+- Docker
+
+---
+
+# 📊 GitHub Stats
+
+> Replace **YOUR_GITHUB_USERNAME** with your GitHub username.
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+# 💼 Featured Projects
+
+### ASP.NET Core Web API
+
+Enterprise backend built with:
+
+- Clean Architecture
+- Entity Framework Core
+- JWT Authentication
+- Repository Pattern
+- SQL Server
+- Swagger
+
+---
+
+### Maintenance Management System
+
+Enterprise maintenance management solution developed with:
+
+- C#
+- WPF
+- SQL Server
+- MVVM
+
+---
+
+### HR & Employee Health System
+
+Enterprise desktop application including:
+
+- Employee Health Records
+- Reporting
+- SQL Server
+- Data Analysis
+
+---
+
+# 🎯 2026 Goals
+
+- Build production-ready ASP.NET Core projects
+- Master Clean Architecture
+- Learn Docker & CI/CD
+- Improve React skills
+- Contribute to Open Source
+- Secure an international Backend Developer position
+
+---
+
+# 💬 Quote
+
+> "First, solve the problem. Then, write the code."
+
+— John Johnson
