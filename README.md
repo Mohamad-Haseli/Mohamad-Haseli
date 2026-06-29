@@ -1,16 +1,26 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:1E3A8A&height=220&section=header&text=Mohammad%20Haseli&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20.NET%20Software%20Engineer&descAlignY=58"/>
+
 # Hi there 👋 I'm Mohammad Haseli
 
-### Senior .NET Backend Developer
+### Senior .NET Software Engineer
 
-Building scalable enterprise software with **C#**, **.NET**, and modern backend technologies.
+### C# | ASP.NET Core | SQL Server | Clean Architecture | REST API
 
----
+Building scalable, maintainable and enterprise-grade software solutions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-haseli)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/Mohammad_H_1989)
-[![Email](https://img.shields.io/badge/Email-Outlook-blue?logo=microsoft-outlook&logoColor=white)](mailto:Mohamad.Haseli@outlook.com)
+<br>
+
+<a href="https://linkedin.com/in/mohammad-haseli">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+
+
+<a href="mailto:mohamad.haseli1989@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -18,19 +28,22 @@ Building scalable enterprise software with **C#**, **.NET**, and modern backend 
 
 # 👨‍💻 About Me
 
-I'm a **Senior Software Engineer** with more than **11 years of experience** developing enterprise software solutions.
+I'm a **Senior Software Engineer** with **over a decade of experience** developing enterprise software solutions.
 
-My background includes every stage of the software lifecycle:
+Throughout my career I've been involved in every phase of the software development lifecycle, including:
 
 - Software Analysis
 - System Design
 - Backend Development
 - Database Design
-- Testing & Maintenance
+- Testing
+- Maintenance
 
-I enjoy solving business problems through clean, maintainable, and scalable software.
+I enjoy solving complex business problems by building clean, scalable and maintainable applications.
 
-Currently, I'm expanding my expertise in modern backend development with **ASP.NET Core**, **REST APIs**, **Docker**, **React**, and cloud-ready architectures to prepare for international software engineering opportunities.
+Currently, I'm expanding my expertise in modern backend technologies including **ASP.NET Core**, **Entity Framework Core**, **REST APIs**, **Docker**, **React**, and cloud-ready architectures.
+
+My goal is to contribute to high-performing engineering teams and build reliable software for international products.
 
 ---
 
@@ -39,13 +52,13 @@ Currently, I'm expanding my expertise in modern backend development with **ASP.N
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cs" />
+<img src="https://skillicons.dev/icons?i=cs"/>
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=dotnet" />
+<img src="https://skillicons.dev/icons?i=dotnet"/>
 </p>
 
 ### Desktop
@@ -56,29 +69,31 @@ Currently, I'm expanding my expertise in modern backend development with **ASP.N
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48"/>
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,visualstudio,vscode,postman"/>
 </p>
-
-### Currently Working On
-
-- ASP.NET Core
-- Entity Framework Core
-- Clean Architecture
-- RESTful APIs
-- JWT Authentication
-- React
-- Docker
 
 ---
 
-# 📊 GitHub Stats
+# 🌱 Currently Working On
+
+- ASP.NET Core Web API
+- Entity Framework Core
+- Clean Architecture
+- RESTful API Design
+- JWT Authentication
+- Docker
+- React
+
+---
+
+# 📈 GitHub Stats
 
 > Replace **YOUR_GITHUB_USERNAME** with your GitHub username.
 
@@ -92,9 +107,25 @@ Currently, I'm expanding my expertise in modern backend development with **ASP.N
 
 # 💼 Featured Projects
 
-### ASP.NET Core Web API
+### Enterprise Maintenance Management System
 
-Enterprise backend built with:
+- C#
+- WPF
+- SQL Server
+- MVVM
+
+---
+
+### Employee Health Examination System
+
+- C#
+- SQL Server
+- Reporting
+- Data Analysis
+
+---
+
+### ASP.NET Core Web API
 
 - Clean Architecture
 - Entity Framework Core
@@ -105,41 +136,27 @@ Enterprise backend built with:
 
 ---
 
-### Maintenance Management System
-
-Enterprise maintenance management solution developed with:
-
-- C#
-- WPF
-- SQL Server
-- MVVM
-
----
-
-### HR & Employee Health System
-
-Enterprise desktop application including:
-
-- Employee Health Records
-- Reporting
-- SQL Server
-- Data Analysis
-
----
-
 # 🎯 2026 Goals
 
-- Build production-ready ASP.NET Core projects
+- Build production-ready ASP.NET Core applications
 - Master Clean Architecture
 - Learn Docker & CI/CD
 - Improve React skills
 - Contribute to Open Source
-- Secure an international Backend Developer position
+- Secure an international Backend Engineer position
 
 ---
 
-# 💬 Quote
+# 📫 Contact
 
-> "First, solve the problem. Then, write the code."
+- 📧 mohamad.haseli1989@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/mohammad-haseli
+- 📱 Telegram: @Mohammad_H_1989
 
-— John Johnson
+---
+
+<div align="center">
+
+### Thanks for visiting my profile 👋
+
+</div>
